@@ -39,6 +39,7 @@ void InputProducts() {
 		cin >> quantity[i];
 		cout << "Sales : ";
 		cin >> totalSales[i];
+		//********
 	}
 }
 
@@ -67,3 +68,4 @@ int GetIndexOfHighestSales() {
 }
 
 //git test
+//test
