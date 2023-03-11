@@ -40,6 +40,7 @@ void InputProducts() {
 		cout << "Sales : ";
 		cin >> totalSales[i];
 		//********
+		//$$$$$$$$$
 	}
 }
 
